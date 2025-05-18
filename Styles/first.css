@@ -1,5 +1,30 @@
-div{
+.first{
  
      background-color: aqua;
      padding : 10px ;
+     margin-bottom: 10px;
+     border: 10px solid;
+     border-color: black;
+
+}
+.second{
+     border: 10px solid;
+     border-color: red;
+     margin-top: 10px;
+     padding : 10px;
+     background-color: beige;
+     box-shadow: 7px 7px ;
+     color: orchid;
+
+     
+     
+}
+.push{
+     text-align: center;
+     color: brown;
+     
+}
+
+ul{
+     color: deeppink;
 }
