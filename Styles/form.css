@@ -11,3 +11,8 @@ label{
 #email{
     margin-left: 1px;
 }
+td,th{
+    border: 2px solid;
+    padding: 5px;
+}
+
