@@ -1,0 +1,13 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+}
+#name{
+    margin-left: 6px; 
+}
+#phone{
+    margin-left: 4px;
+}
+#email{
+    margin-left: 1px;
+}
